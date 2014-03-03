@@ -1,0 +1,686 @@
+age=young race=White	12296
+education=HS-grad salary<=50K race=White gain=none loss=none	10258
+sex=Male workclass=Private salary<=50K gain=none loss=none	14837
+marital=Married-civ-spouse sex=Male workclass=Private country=United-States	11446
+age=middle-aged hours=full-time salary<=50K	10464
+sex=Male race=White country=United-States loss=none	24976
+edu_num=9 education=HS-grad workclass=Private country=United-States gain=none	10083
+marital=Married-civ-spouse salary<=50K race=White gain=none	10330
+hours=full-time sex=Male salary<=50K gain=none loss=none	12629
+marital=Married-civ-spouse sex=Male salary<=50K gain=none loss=none	10048
+sex=Male workclass=Private race=White country=United-States gain=none loss=none	15244
+salary>50K country=United-States	10694
+age=middle-aged hours=full-time country=United-States gain=none loss=none	10655
+sex=Male country=United-States gain=none	26404
+age=middle-aged workclass=Private race=White country=United-States gain=none	11597
+education=HS-grad workclass=Private country=United-States	10735
+hours=full-time salary<=50K race=White	18679
+race=White country=United-States	38493
+marital=Married-civ-spouse sex=Male workclass=Private country=United-States gain=none	10112
+sex=Male workclass=Private race=White gain=none	17813
+marital=Never-married salary<=50K race=White	12571
+edu_num=9 education=HS-grad workclass=Private	11682
+marital=Married-civ-spouse sex=Male race=White gain=none	15818
+marital=Never-married workclass=Private gain=none	11747
+sex=Female salary<=50K race=White country=United-States gain=none	10190
+hours=full-time race=White gain=none	21823
+hours=full-time country=United-States loss=none	24221
+relationship=Husband marital=Married-civ-spouse sex=Male country=United-States loss=none	16574
+sex=Male salary<=50K gain=none	21715
+relationship=Husband sex=Male workclass=Private country=United-States gain=none	10032
+sex=Female country=United-States loss=none	14101
+education=HS-grad workclass=Private gain=none loss=none	10573
+race=White country=United-States loss=none	36585
+marital=Married-civ-spouse workclass=Private	14473
+age=young marital=Never-married salary<=50K loss=none	10400
+relationship=Husband marital=Married-civ-spouse gain=none loss=none	16080
+sex=Male country=United-States loss=none	27651
+marital=Married-civ-spouse salary<=50K	12395
+relationship=Husband sex=Male loss=none	18456
+marital=Married-civ-spouse workclass=Private race=White loss=none	12153
+age=middle-aged workclass=Private gain=none	15031
+edu_num=9 education=HS-grad workclass=Private gain=none	10979
+marital=Married-civ-spouse workclass=Private loss=none	13599
+workclass=Private race=White loss=none	27717
+age=middle-aged sex=Male race=White gain=none	13069
+marital=Married-civ-spouse hours=full-time gain=none	10893
+relationship=Husband sex=Male race=White	17857
+marital=Never-married race=White loss=none	12807
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private	12737
+education=HS-grad salary<=50K country=United-States	12218
+sex=Female salary<=50K race=White loss=none	11168
+sex=Male salary<=50K race=White gain=none loss=none	18117
+age=young workclass=Private	11375
+relationship=Husband marital=Married-civ-spouse workclass=Private country=United-States gain=none	10025
+sex=Male salary<=50K country=United-States gain=none loss=none	18559
+edu_num=9 race=White country=United-States loss=none	12095
+hours=full-time gain=none loss=none	25357
+sex=Female race=White loss=none	12565
+marital=Never-married race=White	13218
+edu_num=9 education=HS-grad salary<=50K gain=none loss=none	12323
+hours=full-time race=White loss=none	22558
+hours=overtime	12676
+hours=full-time workclass=Private salary<=50K race=White loss=none	13563
+sex=Male race=White country=United-States	26450
+age=middle-aged workclass=Private salary<=50K gain=none loss=none	10717
+marital=Never-married salary<=50K race=White country=United-States gain=none loss=none	10896
+hours=full-time workclass=Private salary<=50K race=White country=United-States gain=none	11937
+hours=full-time workclass=Private race=White gain=none loss=none	15285
+age=young marital=Never-married gain=none	10483
+marital=Married-civ-spouse sex=Male race=White country=United-States	16634
+education=HS-grad	15784
+relationship=Husband marital=Married-civ-spouse sex=Male gain=none	17338
+salary<=50K race=White country=United-States	28501
+sex=Male workclass=Private gain=none loss=none	19219
+education=HS-grad race=White gain=none	12468
+education=Some-college loss=none	10438
+hours=full-time workclass=Private	20635
+education=HS-grad country=United-States gain=none loss=none	13056
+edu_num=9 education=HS-grad salary<=50K race=White gain=none	10588
+age=middle-aged workclass=Private gain=none loss=none	14172
+age=middle-aged hours=full-time	13860
+edu_num=9 education=HS-grad country=United-States gain=none	13613
+hours=full-time workclass=Private country=United-States	18008
+relationship=Husband gain=none loss=none	16091
+relationship=Husband marital=Married-civ-spouse sex=Male race=White	17847
+race=White	41762
+hours=full-time sex=Male workclass=Private gain=none	12002
+relationship=Husband sex=Male workclass=Private race=White country=United-States	10580
+edu_num=9 education=HS-grad race=White gain=none loss=none	11952
+edu_num=9 education=HS-grad race=White country=United-States loss=none	12095
+salary>50K	11687
+edu_num=9 education=HS-grad salary<=50K country=United-States loss=none	11854
+age=middle-aged hours=full-time gain=none	12790
+sex=Male salary<=50K country=United-States	20142
+sex=Male salary<=50K race=White country=United-States loss=none	17286
+marital=Never-married salary<=50K country=United-States loss=none	13433
+marital=Never-married workclass=Private salary<=50K country=United-States	10458
+age=young marital=Never-married salary<=50K	10644
+marital=Married-civ-spouse age=middle-aged sex=Male loss=none	10846
+edu_num=9 salary<=50K race=White loss=none	10756
+edu_num=9 education=HS-grad race=White country=United-States gain=none loss=none	11232
+hours=full-time sex=Male salary<=50K	13648
+hours=overtime country=United-States gain=none	10250
+marital=Married-civ-spouse loss=none	20968
+age=young workclass=Private salary<=50K	10817
+hours=full-time sex=Male race=White	15519
+relationship=Husband sex=Male	19715
+race=White country=United-States gain=none	35140
+relationship=Husband race=White gain=none	15691
+marital=Married-civ-spouse country=United-States gain=none loss=none	16290
+age=young workclass=Private salary<=50K gain=none	10489
+edu_num=9 salary<=50K gain=none loss=none	12323
+sex=Male workclass=Private country=United-States gain=none	17946
+workclass=Private salary<=50K race=White gain=none	21372
+hours=full-time workclass=Private race=White	17102
+relationship=Not-in-family race=White	10805
+marital=Married-civ-spouse hours=full-time gain=none loss=none	10221
+marital=Never-married workclass=Private salary<=50K gain=none loss=none	11105
+sex=Female workclass=Private salary<=50K gain=none	10154
+sex=Female salary<=50K country=United-States gain=none	12508
+age=middle-aged sex=Male workclass=Private gain=none	10331
+hours=full-time workclass=Private race=White gain=none	15948
+education=HS-grad workclass=Private	11682
+workclass=Private race=White country=United-States gain=none	24392
+relationship=Not-in-family race=White country=United-States	10030
+workclass=Private race=White gain=none loss=none	25421
+hours=full-time workclass=Private salary<=50K gain=none loss=none	15964
+edu_num=9 sex=Male	10687
+sex=Female salary<=50K	14423
+sex=Female country=United-States gain=none	13742
+marital=Married-civ-spouse workclass=Private race=White country=United-States loss=none	11084
+age=middle-aged hours=full-time salary<=50K gain=none	10040
+relationship=Husband loss=none	18457
+marital=Married-civ-spouse workclass=Private country=United-States	12805
+marital=Never-married race=White country=United-States gain=none loss=none	11263
+edu_num=9 race=White loss=none	12871
+hours=full-time workclass=Private salary<=50K race=White country=United-States	12449
+edu_num=9 education=HS-grad salary<=50K loss=none	12896
+age=young country=United-States gain=none loss=none	12144
+marital=Married-civ-spouse age=middle-aged country=United-States gain=none	10229
+sex=Male salary<=50K country=United-States loss=none	19470
+relationship=Not-in-family race=White loss=none	10345
+edu_num=9 education=HS-grad salary<=50K race=White gain=none loss=none	10258
+edu_num=9 education=HS-grad salary<=50K	13281
+sex=Male salary<=50K country=United-States gain=none	19231
+education=HS-grad race=White country=United-States loss=none	12095
+age=middle-aged sex=Male race=White country=United-States gain=none loss=none	11154
+age=middle-aged hours=full-time workclass=Private	10075
+age=young salary<=50K country=United-States gain=none	11971
+age=middle-aged workclass=Private country=United-States	14613
+workclass=Private salary<=50K race=White country=United-States gain=none	19347
+sex=Female salary<=50K race=White gain=none	11050
+marital=Never-married salary<=50K country=United-States gain=none loss=none	13013
+education=HS-grad race=White country=United-States	12593
+marital=Never-married workclass=Private country=United-States gain=none loss=none	10136
+education=HS-grad sex=Male loss=none	10245
+relationship=Husband workclass=Private gain=none	11291
+education=HS-grad salary<=50K country=United-States loss=none	11854
+marital=Married-civ-spouse workclass=Private race=White gain=none	11439
+marital=Married-civ-spouse age=middle-aged race=White country=United-States	10749
+marital=Married-civ-spouse race=White loss=none	18776
+marital=Married-civ-spouse hours=full-time race=White loss=none	10010
+sex=Female salary<=50K race=White country=United-States loss=none	10300
+marital=Never-married workclass=Private salary<=50K loss=none	11456
+marital=Married-civ-spouse workclass=Private race=White gain=none loss=none	10651
+education=HS-grad gain=none loss=none	14166
+hours=full-time sex=Male workclass=Private salary<=50K	10065
+relationship=Not-in-family loss=none	12065
+sex=Male country=United-States	29223
+relationship=Husband marital=Married-civ-spouse race=White country=United-States loss=none	15432
+age=middle-aged salary<=50K gain=none loss=none	14967
+relationship=Husband age=middle-aged gain=none	10191
+edu_num=9 education=HS-grad race=White loss=none	12871
+sex=Male salary<=50K race=White loss=none	19012
+marital=Married-civ-spouse salary<=50K race=White loss=none	10587
+edu_num=9 education=HS-grad race=White country=United-States	12593
+marital=Married-civ-spouse gain=none	19696
+relationship=Not-in-family country=United-States	11416
+relationship=Husband workclass=Private loss=none	11963
+marital=Married-civ-spouse age=middle-aged gain=none	11543
+sex=Male workclass=Private salary<=50K race=White country=United-States gain=none loss=none	11444
+edu_num=9 loss=none	15195
+edu_num=9 workclass=Private	11682
+age=middle-aged workclass=Private salary<=50K	11576
+age=middle-aged hours=full-time salary<=50K loss=none	10120
+hours=full-time country=United-States	25298
+relationship=Husband age=middle-aged country=United-States	10316
+age=middle-aged sex=Male workclass=Private race=White	10123
+relationship=Husband race=White country=United-States	16531
+relationship=Husband salary<=50K loss=none	10504
+age=young salary<=50K race=White country=United-States loss=none	10418
+hours=full-time sex=Male salary<=50K gain=none	13069
+hours=full-time workclass=Private loss=none	19851
+edu_num=9 education=HS-grad gain=none loss=none	14166
+relationship=Husband sex=Male race=White gain=none	15690
+workclass=Private race=White country=United-States gain=none loss=none	23159
+age=middle-aged hours=full-time race=White	11232
+sex=Female salary<=50K race=White	11485
+country=United-States gain=none loss=none	38066
+education=HS-grad race=White gain=none loss=none	11952
+sex=Female race=White gain=none loss=none	11772
+edu_num=9 workclass=Private country=United-States	10735
+age=middle-aged race=White country=United-States loss=none	17431
+education=Some-college gain=none	10179
+hours=full-time salary<=50K	23026
+sex=Male race=White loss=none	27177
+marital=Married-civ-spouse sex=Male workclass=Private race=White country=United-States	10651
+relationship=Husband marital=Married-civ-spouse sex=Male country=United-States gain=none	15570
+workclass=Private salary<=50K race=White country=United-States	20180
+age=young salary<=50K country=United-States loss=none	12040
+edu_num=9 country=United-States loss=none	14013
+salary<=50K gain=none loss=none	34473
+hours=overtime race=White gain=none	10200
+sex=Male salary<=50K loss=none	21989
+relationship=Husband marital=Married-civ-spouse gain=none	17339
+relationship=Husband sex=Male gain=none	17349
+relationship=Husband marital=Married-civ-spouse workclass=Private race=White gain=none	10185
+age=young workclass=Private country=United-States	10156
+marital=Married-civ-spouse hours=full-time loss=none	11534
+marital=Married-civ-spouse age=middle-aged country=United-States	11628
+hours=overtime race=White loss=none	10833
+age=middle-aged hours=full-time country=United-States gain=none	11218
+marital=Married-civ-spouse workclass=Private gain=none loss=none	11951
+edu_num=9 salary<=50K race=White gain=none	10588
+sex=Female country=United-States	14609
+marital=Married-civ-spouse salary<=50K country=United-States	10862
+age=middle-aged workclass=Private salary<=50K country=United-States	10082
+marital=Married-civ-spouse race=White gain=none	17614
+hours=full-time salary<=50K race=White country=United-States gain=none	16169
+relationship=Husband marital=Married-civ-spouse sex=Male salary<=50K	10861
+age=middle-aged country=United-States gain=none	19112
+edu_num=9 education=HS-grad race=White	13387
+edu_num=9 education=HS-grad salary<=50K race=White country=United-States	10402
+age=middle-aged salary<=50K country=United-States	14321
+age=young salary<=50K race=White country=United-States gain=none	10354
+hours=full-time workclass=Private race=White country=United-States gain=none	14337
+sex=Female salary<=50K country=United-States gain=none loss=none	12149
+age=young race=White gain=none	11829
+age=young salary<=50K race=White gain=none	11284
+age=young salary<=50K race=White	11627
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private gain=none loss=none	10499
+age=middle-aged race=White	20094
+age=middle-aged sex=Male country=United-States gain=none	13259
+sex=Male race=White	28735
+sex=Female workclass=Private country=United-States loss=none	10055
+relationship=Husband age=middle-aged sex=Male gain=none	10190
+age=middle-aged gain=none loss=none	20172
+age=young country=United-States gain=none	12511
+relationship=Husband marital=Married-civ-spouse sex=Male salary<=50K gain=none	10263
+sex=Female gain=none	15254
+age=middle-aged salary<=50K race=White	13384
+marital=Married-civ-spouse age=middle-aged sex=Male	11613
+age=young marital=Never-married salary<=50K gain=none loss=none	10134
+relationship=Husband marital=Married-civ-spouse age=middle-aged sex=Male country=United-States	10310
+relationship=Husband marital=Married-civ-spouse	19704
+hours=overtime country=United-States loss=none	10899
+sex=Female	16192
+marital=Married-civ-spouse age=middle-aged loss=none	12213
+edu_num=9 salary<=50K race=White	11086
+age=middle-aged salary<=50K race=White country=United-States	12164
+hours=full-time sex=Male salary<=50K race=White	11492
+age=middle-aged sex=Male gain=none loss=none	13888
+age=young salary<=50K race=White loss=none	11353
+education=HS-grad workclass=Private loss=none	11276
+hours=full-time sex=Male salary<=50K race=White loss=none	11121
+education=HS-grad salary<=50K race=White country=United-States	10402
+relationship=Husband marital=Married-civ-spouse sex=Male race=White country=United-States gain=none	14494
+education=HS-grad country=United-States gain=none	13613
+workclass=Private salary<=50K country=United-States gain=none loss=none	21761
+hours=full-time salary<=50K country=United-States gain=none	19456
+hours=overtime country=United-States	11646
+age=young workclass=Private salary<=50K loss=none	10580
+sex=Male workclass=Private salary<=50K race=White	13829
+sex=Male workclass=Private loss=none	21204
+marital=Married-civ-spouse sex=Male race=White country=United-States gain=none loss=none	13506
+edu_num=9 education=HS-grad country=United-States gain=none loss=none	13056
+relationship=Not-in-family salary<=50K gain=none	10846
+hours=full-time sex=Male country=United-States loss=none	15228
+edu_num=9 race=White	13387
+marital=Married-civ-spouse sex=Male salary<=50K gain=none	10418
+marital=Married-civ-spouse sex=Male country=United-States gain=none	15695
+hours=overtime sex=Male	10315
+hours=full-time sex=Male salary<=50K race=White gain=none loss=none	10621
+age=young salary<=50K	13769
+marital=Never-married salary<=50K race=White country=United-States	11578
+relationship=Husband marital=Married-civ-spouse sex=Male race=White country=United-States	16520
+age=middle-aged salary<=50K race=White loss=none	12910
+age=middle-aged sex=Male race=White country=United-States	13466
+marital=Married-civ-spouse age=middle-aged country=United-States loss=none	10847
+hours=full-time salary<=50K country=United-States loss=none	19662
+hours=full-time workclass=Private country=United-States gain=none loss=none	16102
+marital=Never-married race=White country=United-States	12182
+marital=Married-civ-spouse hours=full-time race=White	10591
+relationship=Not-in-family salary<=50K gain=none loss=none	10431
+relationship=Husband age=middle-aged sex=Male race=White	10393
+sex=Male country=United-States gain=none loss=none	24832
+sex=Male gain=none	29553
+marital=Never-married workclass=Private salary<=50K country=United-States loss=none	10188
+workclass=Private salary<=50K country=United-States gain=none	22445
+workclass=Private salary<=50K race=White	22282
+marital=Never-married salary<=50K gain=none	14929
+hours=full-time race=White gain=none loss=none	20816
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private gain=none	11282
+hours=full-time sex=Male salary<=50K country=United-States gain=none	11357
+hours=full-time sex=Male salary<=50K country=United-States gain=none loss=none	10972
+relationship=Husband age=middle-aged loss=none	10772
+hours=full-time sex=Male workclass=Private race=White	11082
+sex=Male salary<=50K gain=none loss=none	20972
+relationship=Husband age=middle-aged sex=Male	11535
+salary<=50K country=United-States	33138
+sex=Male salary<=50K race=White gain=none	18775
+marital=Married-civ-spouse sex=Male country=United-States gain=none loss=none	14547
+marital=Married-civ-spouse salary<=50K gain=none	11704
+marital=Married-civ-spouse age=middle-aged race=White gain=none	10274
+age=young salary<=50K gain=none loss=none	13044
+sex=Male workclass=Private salary<=50K loss=none	15529
+hours=full-time sex=Male country=United-States gain=none loss=none	13892
+sex=Female workclass=Private	11599
+age=young	14515
+workclass=Private loss=none	32431
+sex=Male workclass=Private salary<=50K race=White gain=none loss=none	12783
+relationship=Husband sex=Male workclass=Private race=White	11525
+edu_num=9 country=United-States gain=none loss=none	13056
+marital=Never-married workclass=Private salary<=50K	11755
+sex=Female salary<=50K race=White country=United-States	10596
+edu_num=9 education=HS-grad loss=none	15195
+relationship=Husband marital=Married-civ-spouse sex=Male race=White gain=none loss=none	14533
+workclass=Private salary<=50K race=White loss=none	21629
+edu_num=9 education=HS-grad salary<=50K race=White loss=none	10756
+marital=Married-civ-spouse sex=Male workclass=Private country=United-States loss=none	10729
+marital=Married-civ-spouse sex=Male country=United-States loss=none	16709
+sex=Female race=White	13027
+edu_num=10 education=Some-college country=United-States	10094
+marital=Married-civ-spouse salary<=50K country=United-States loss=none	10500
+education=HS-grad salary<=50K	13281
+hours=full-time country=United-States gain=none	23450
+sex=Male	32650
+edu_num=9 education=HS-grad workclass=Private loss=none	11276
+relationship=Husband marital=Married-civ-spouse race=White gain=none	15682
+sex=Female race=White country=United-States gain=none	11300
+age=middle-aged salary<=50K race=White country=United-States gain=none	11623
+age=middle-aged workclass=Private race=White country=United-States	12851
+workclass=Private salary<=50K	26519
+marital=Never-married country=United-States loss=none	14036
+marital=Married-civ-spouse workclass=Private country=United-States gain=none loss=none	10508
+marital=Married-civ-spouse sex=Male race=White country=United-States loss=none	15543
+hours=full-time workclass=Private salary<=50K country=United-States	14802
+age=middle-aged workclass=Private salary<=50K gain=none	11098
+marital=Never-married country=United-States gain=none loss=none	13412
+relationship=Husband marital=Married-civ-spouse sex=Male race=White country=United-States loss=none	15431
+relationship=Husband race=White	17858
+education=HS-grad salary<=50K gain=none loss=none	12323
+relationship=Husband sex=Male workclass=Private race=White loss=none	10814
+sex=Male salary<=50K	22732
+relationship=Husband sex=Male workclass=Private country=United-States	11359
+salary<=50K race=White country=United-States gain=none	27273
+age=middle-aged hours=full-time race=White loss=none	10696
+edu_num=9 salary<=50K loss=none	12896
+relationship=Husband marital=Married-civ-spouse age=middle-aged loss=none	10767
+edu_num=9 race=White country=United-States gain=none loss=none	11232
+relationship=Husband age=middle-aged race=White	10394
+age=middle-aged hours=full-time country=United-States loss=none	11622
+hours=full-time salary<=50K race=White country=United-States gain=none loss=none	15640
+marital=Married-civ-spouse age=middle-aged sex=Male gain=none	10261
+age=middle-aged sex=Male race=White	14617
+sex=Female hours=full-time	10390
+hours=full-time salary<=50K race=White country=United-States loss=none	16349
+relationship=Husband marital=Married-civ-spouse race=White loss=none	16700
+race=White gain=none	38184
+hours=full-time race=White country=United-States gain=none loss=none	18878
+education=HS-grad salary<=50K loss=none	12896
+hours=full-time sex=Male salary<=50K race=White country=United-States	10283
+hours=full-time workclass=Private salary<=50K race=White country=United-States gain=none loss=none	11588
+edu_num=10 loss=none	10438
+hours=full-time sex=Male race=White loss=none	14790
+age=middle-aged salary<=50K gain=none	15515
+relationship=Husband sex=Male salary<=50K	10869
+hours=full-time salary<=50K country=United-States gain=none loss=none	18836
+marital=Married-civ-spouse sex=Male race=White country=United-States gain=none	14597
+marital=Married-civ-spouse sex=Male workclass=Private	12878
+marital=Married-civ-spouse sex=Male workclass=Private race=White loss=none	10912
+sex=Male workclass=Private salary<=50K gain=none	15323
+relationship=Husband marital=Married-civ-spouse workclass=Private race=White country=United-States	10574
+hours=full-time sex=Male race=White country=United-States gain=none loss=none	12171
+hours=full-time sex=Male salary<=50K country=United-States loss=none	11493
+salary<=50K country=United-States loss=none	32107
+age=middle-aged sex=Male country=United-States	14832
+hours=full-time workclass=Private salary<=50K gain=none	16431
+age=middle-aged workclass=Private salary<=50K loss=none	11195
+age=middle-aged salary<=50K	16206
+country=United-States gain=none	40146
+workclass=Private race=White	29024
+relationship=Husband marital=Married-civ-spouse salary<=50K gain=none	10264
+relationship=Husband workclass=Private race=White loss=none	10815
+sex=Female workclass=Private country=United-States	10392
+relationship=Husband country=United-States loss=none	16587
+education=HS-grad workclass=Private country=United-States gain=none	10083
+workclass=Private country=United-States gain=none	27789
+marital=Married-civ-spouse hours=full-time	12206
+sex=Male race=White gain=none	25950
+relationship=Husband country=United-States gain=none	15582
+sex=Male workclass=Private country=United-States loss=none	18748
+edu_num=9 race=White country=United-States gain=none	11730
+relationship=Husband salary<=50K gain=none	10272
+hours=full-time sex=Male gain=none loss=none	15868
+relationship=Husband marital=Married-civ-spouse sex=Male race=White loss=none	16699
+age=middle-aged salary<=50K race=White country=United-States gain=none loss=none	11181
+hours=full-time salary<=50K race=White loss=none	18111
+age=middle-aged sex=Male salary<=50K	10347
+sex=Female race=White country=United-States	12043
+marital=Never-married workclass=Private salary<=50K gain=none	11404
+marital=Never-married workclass=Private country=United-States gain=none	10439
+edu_num=9 salary<=50K country=United-States gain=none loss=none	11328
+sex=Female salary<=50K gain=none	13896
+sex=Male workclass=Private country=United-States	19753
+age=middle-aged race=White loss=none	18959
+marital=Never-married salary<=50K country=United-States gain=none	13399
+age=middle-aged sex=Male race=White gain=none loss=none	12163
+edu_num=9 education=HS-grad hours=full-time	10209
+marital=Married-civ-spouse sex=Male salary<=50K loss=none	10656
+relationship=Husband marital=Married-civ-spouse workclass=Private race=White loss=none	10808
+hours=full-time salary<=50K gain=none	22118
+marital=Never-married workclass=Private country=United-States	10892
+workclass=Private country=United-States gain=none loss=none	26447
+edu_num=10 gain=none	10179
+sex=Male workclass=Private gain=none	20322
+age=middle-aged workclass=Private country=United-States gain=none loss=none	12469
+marital=Married-civ-spouse gain=none loss=none	18285
+hours=full-time sex=Male race=White country=United-States loss=none	13378
+relationship=Husband race=White loss=none	16710
+age=young salary<=50K race=White gain=none loss=none	11010
+age=middle-aged workclass=Private	16522
+edu_num=9 race=White country=United-States	12593
+age=young salary<=50K gain=none	13368
+country=United-States loss=none	41752
+hours=full-time sex=Male workclass=Private country=United-States gain=none	10340
+age=young workclass=Private gain=none loss=none	10646
+marital=Married-civ-spouse sex=Male workclass=Private race=White	11625
+marital=Married-civ-spouse sex=Male loss=none	18636
+edu_num=9 education=HS-grad	15784
+edu_num=9 education=HS-grad country=United-States loss=none	14013
+age=young loss=none	14115
+sex=Male workclass=Private race=White country=United-States gain=none	16186
+marital=Married-civ-spouse	22379
+hours=full-time sex=Male workclass=Private loss=none	12437
+age=middle-aged hours=full-time country=United-States	12185
+age=middle-aged country=United-States	21132
+education=Some-college	10878
+loss=none	46560
+marital=Never-married workclass=Private loss=none	11905
+marital=Married-civ-spouse sex=Male race=White gain=none loss=none	14667
+marital=Married-civ-spouse workclass=Private race=White	12941
+age=middle-aged sex=Male workclass=Private loss=none	10837
+hours=full-time salary<=50K race=White gain=none loss=none	17345
+marital=Married-civ-spouse sex=Male race=White	17997
+age=middle-aged salary<=50K race=White gain=none	12789
+sex=Female hours=full-time loss=none	10040
+relationship=Husband sex=Male workclass=Private gain=none loss=none	10507
+age=middle-aged country=United-States gain=none loss=none	17957
+relationship=Husband marital=Married-civ-spouse country=United-States gain=none	15571
+sex=Female country=United-States gain=none loss=none	13234
+age=middle-aged salary<=50K race=White gain=none loss=none	12315
+hours=full-time sex=Male race=White country=United-States	14066
+sex=Male salary<=50K race=White country=United-States	17905
+marital=Married-civ-spouse country=United-States	20003
+relationship=Husband sex=Male workclass=Private	12745
+relationship=Husband marital=Married-civ-spouse hours=full-time sex=Male	10489
+relationship=Husband marital=Married-civ-spouse sex=Male country=United-States	17720
+age=middle-aged race=White gain=none	18145
+relationship=Husband sex=Male gain=none loss=none	16090
+edu_num=9 race=White gain=none loss=none	11952
+age=middle-aged race=White country=United-States gain=none loss=none	15601
+edu_num=9 education=HS-grad race=White gain=none	12468
+relationship=Husband marital=Married-civ-spouse age=middle-aged sex=Male race=White	10389
+age=young marital=Never-married salary<=50K gain=none	10378
+edu_num=9 gain=none	14755
+salary<=50K gain=none	35611
+sex=Male workclass=Private salary<=50K country=United-States gain=none	13368
+age=young country=United-States	13012
+hours=overtime race=White	11595
+relationship=Not-in-family salary<=50K country=United-States	10248
+sex=Female salary<=50K country=United-States loss=none	12637
+age=young workclass=Private salary<=50K gain=none loss=none	10252
+marital=Married-civ-spouse sex=Male workclass=Private gain=none	11415
+relationship=Husband marital=Married-civ-spouse sex=Male	19703
+relationship=Husband sex=Male workclass=Private gain=none	11290
+age=young race=White country=United-States loss=none	10980
+workclass=Private country=United-States	30145
+education=HS-grad race=White loss=none	12871
+edu_num=9 salary<=50K race=White country=United-States loss=none	10083
+sex=Male workclass=Private salary<=50K country=United-States gain=none loss=none	12931
+workclass=Private gain=none loss=none	29851
+relationship=Husband workclass=Private race=White	11526
+sex=Male salary<=50K race=White	19670
+workclass=Private salary<=50K country=United-States loss=none	22696
+sex=Female salary<=50K race=White gain=none loss=none	10733
+hours=full-time sex=Male gain=none	16711
+hours=full-time sex=Male workclass=Private gain=none loss=none	11456
+relationship=Husband age=middle-aged sex=Male loss=none	10771
+edu_num=10 education=Some-college gain=none	10179
+age=middle-aged workclass=Private race=White loss=none	13304
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private race=White country=United-States	10573
+relationship=Husband marital=Married-civ-spouse age=middle-aged gain=none	10187
+age=middle-aged loss=none	22377
+relationship=Husband marital=Married-civ-spouse hours=full-time	10490
+relationship=Husband sex=Male country=United-States	17732
+sex=Female workclass=Private salary<=50K	10504
+marital=Married-civ-spouse hours=full-time country=United-States	10669
+relationship=Husband workclass=Private race=White gain=none	10192
+marital=Never-married salary<=50K race=White gain=none	12204
+age=middle-aged sex=Male race=White country=United-States loss=none	12608
+marital=Never-married race=White country=United-States loss=none	11794
+age=young salary<=50K race=White country=United-States gain=none loss=none	10095
+hours=full-time sex=Male salary<=50K race=White gain=none	10992
+relationship=Husband age=middle-aged	11536
+education=HS-grad workclass=Private country=United-States loss=none	10353
+edu_num=9	15784
+hours=full-time country=United-States gain=none loss=none	22373
+sex=Male workclass=Private salary<=50K country=United-States	13985
+marital=Married-civ-spouse hours=full-time sex=Male	10624
+marital=Never-married workclass=Private gain=none loss=none	11409
+relationship=Husband marital=Married-civ-spouse age=middle-aged sex=Male gain=none	10186
+age=middle-aged race=White country=United-States	18504
+marital=Married-civ-spouse age=middle-aged sex=Male country=United-States	10365
+edu_num=9 workclass=Private gain=none loss=none	10573
+hours=full-time workclass=Private salary<=50K loss=none	16609
+edu_num=9 salary<=50K country=United-States gain=none	11692
+edu_num=9 workclass=Private loss=none	11276
+edu_num=9 salary<=50K	13281
+marital=Married-civ-spouse salary<=50K loss=none	11986
+marital=Married-civ-spouse hours=full-time country=United-States loss=none	10067
+relationship=Husband gain=none	17350
+marital=Never-married workclass=Private race=White	10134
+sex=Male workclass=Private race=White	19602
+marital=Never-married salary<=50K	15384
+hours=full-time workclass=Private race=White loss=none	16439
+relationship=Not-in-family gain=none loss=none	11232
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private race=White	11518
+hours=full-time workclass=Private race=White country=United-States gain=none loss=none	13717
+workclass=Private country=United-States loss=none	28803
+relationship=Husband marital=Married-civ-spouse loss=none	18445
+edu_num=10 country=United-States	10094
+marital=Never-married gain=none loss=none	14952
+relationship=Husband sex=Male salary<=50K gain=none	10271
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private race=White loss=none	10807
+edu_num=9 workclass=Private gain=none	10979
+relationship=Husband marital=Married-civ-spouse salary<=50K	10862
+edu_num=9 sex=Male loss=none	10245
+salary<=50K race=White country=United-States gain=none loss=none	26358
+workclass=Private salary<=50K gain=none	25477
+hours=full-time salary<=50K gain=none loss=none	21421
+relationship=Husband sex=Male race=White country=United-States gain=none loss=none	13414
+hours=full-time loss=none	27384
+relationship=Husband marital=Married-civ-spouse country=United-States	17721
+relationship=Husband sex=Male country=United-States loss=none	16586
+relationship=Husband hours=full-time	10495
+salary<=50K country=United-States gain=none loss=none	30708
+education=HS-grad salary<=50K country=United-States gain=none	11692
+age=middle-aged hours=full-time loss=none	13226
+marital=Never-married workclass=Private	12243
+hours=full-time salary<=50K race=White country=United-States	16878
+marital=Married-civ-spouse salary<=50K race=White	10952
+age=middle-aged salary<=50K country=United-States gain=none	13700
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private race=White gain=none	10184
+relationship=Husband marital=Married-civ-spouse salary<=50K loss=none	10496
+sex=Male workclass=Private race=White country=United-States loss=none	16919
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private country=United-States gain=none	10024
+hours=full-time sex=Male workclass=Private race=White gain=none	10227
+hours=full-time race=White country=United-States loss=none	20515
+marital=Married-civ-spouse workclass=Private country=United-States loss=none	12010
+relationship=Husband marital=Married-civ-spouse country=United-States loss=none	16575
+edu_num=9 education=HS-grad workclass=Private country=United-States loss=none	10353
+education=HS-grad sex=Male	10687
+relationship=Husband workclass=Private race=White country=United-States	10581
+sex=Male race=White gain=none loss=none	24392
+marital=Never-married loss=none	15629
+age=middle-aged sex=Male workclass=Private country=United-States	10182
+workclass=Private gain=none	31326
+hours=overtime race=White country=United-States loss=none	10166
+sex=Male race=White country=United-States gain=none	23840
+age=middle-aged workclass=Private race=White	14068
+age=middle-aged hours=full-time race=White country=United-States	10202
+relationship=Husband marital=Married-civ-spouse race=White gain=none loss=none	14534
+relationship=Not-in-family race=White gain=none	10079
+education=HS-grad salary<=50K race=White loss=none	10756
+edu_num=9 salary<=50K race=White gain=none loss=none	10258
+hours=full-time sex=Male country=United-States gain=none	14647
+hours=full-time workclass=Private salary<=50K race=White gain=none loss=none	13005
+relationship=Husband workclass=Private country=United-States	11360
+age=young salary<=50K loss=none	13445
+relationship=Husband sex=Male workclass=Private race=White gain=none	10191
+race=White loss=none	39742
+education=HS-grad hours=full-time	10209
+age=middle-aged sex=Male workclass=Private	11509
+marital=Never-married salary<=50K race=White country=United-States loss=none	11246
+age=young workclass=Private gain=none	10939
+marital=Married-civ-spouse sex=Male salary<=50K	11026
+age=young gain=none loss=none	13571
+education=HS-grad salary<=50K race=White gain=none	10588
+marital=Married-civ-spouse sex=Male workclass=Private race=White gain=none	10284
+marital=Married-civ-spouse race=White country=United-States gain=none loss=none	15016
+age=middle-aged workclass=Private loss=none	15663
+marital=Married-civ-spouse sex=Male gain=none	17519
+marital=Married-civ-spouse salary<=50K gain=none loss=none	11295
+age=middle-aged workclass=Private race=White country=United-States loss=none	12134
+sex=Male salary<=50K race=White country=United-States gain=none	17083
+edu_num=9 education=HS-grad salary<=50K country=United-States gain=none loss=none	11328
+relationship=Husband sex=Male race=White country=United-States loss=none	15441
+marital=Married-civ-spouse age=middle-aged race=White country=United-States loss=none	10007
+age=middle-aged	23653
+relationship=Husband marital=Married-civ-spouse race=White country=United-States gain=none loss=none	13406
+marital=Never-married race=White country=United-States gain=none	11651
+edu_num=9 race=White gain=none	12468
+hours=full-time salary<=50K race=White gain=none	17913
+age=middle-aged salary<=50K country=United-States gain=none loss=none	13212
+salary<=50K race=White gain=none loss=none	28850
+relationship=Husband marital=Married-civ-spouse workclass=Private country=United-States	11352
+age=middle-aged sex=Male	16612
+marital=Married-civ-spouse sex=Male country=United-States	17857
+workclass=Private race=White gain=none	26728
+hours=full-time workclass=Private salary<=50K race=White country=United-States loss=none	12100
+edu_num=9 education=HS-grad salary<=50K country=United-States	12218
+sex=Male workclass=Private salary<=50K race=White country=United-States	12410
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private loss=none	11954
+marital=Married-civ-spouse sex=Male gain=none loss=none	16256
+sex=Female race=White country=United-States loss=none	11609
+relationship=Husband marital=Married-civ-spouse sex=Male salary<=50K loss=none	10495
+age=middle-aged sex=Male gain=none	14893
+marital=Never-married workclass=Private country=United-States loss=none	10589
+relationship=Husband race=White country=United-States gain=none loss=none	13415
+education=HS-grad country=United-States loss=none	14013
+hours=full-time workclass=Private salary<=50K country=United-States gain=none	14222
+edu_num=9 salary<=50K race=White country=United-States	10402
+workclass=Private salary<=50K race=White country=United-States gain=none loss=none	18738
+relationship=Husband marital=Married-civ-spouse sex=Male workclass=Private country=United-States	11351
+marital=Married-civ-spouse age=middle-aged	13077
+salary>50K race=White	10607
+relationship=Husband sex=Male race=White gain=none loss=none	14542
+marital=Married-civ-spouse workclass=Private gain=none	12825
+sex=Male workclass=Private salary<=50K race=White gain=none	13214
+salary<=50K loss=none	36017
+hours=full-time	28577
+hours=full-time sex=Male workclass=Private country=United-States loss=none	10730
+marital=Married-civ-spouse race=White gain=none loss=none	16336
+edu_num=9 country=United-States	14570
+relationship=Husband sex=Male race=White loss=none	16709
+edu_num=9 education=HS-grad salary<=50K country=United-States gain=none	11692
+hours=overtime gain=none	11158
+education=HS-grad salary<=50K race=White	11086
+education=HS-grad gain=none	14755
+marital=Married-civ-spouse country=United-States gain=none	17571
+marital=Never-married salary<=50K race=White gain=none loss=none	11852
+hours=full-time workclass=Private country=United-States loss=none	17305
+hours=full-time workclass=Private salary<=50K race=White gain=none	13385
+relationship=Husband hours=full-time sex=Male	10494
+edu_num=9 education=HS-grad race=White country=United-States gain=none	11730
+marital=Married-civ-spouse workclass=Private race=White country=United-States gain=none	10427
+sex=Male race=White country=United-States gain=none loss=none	22366
+edu_num=9 education=HS-grad sex=Male loss=none	10245
+edu_num=9 salary<=50K country=United-States loss=none	11854
+marital=Married-civ-spouse age=middle-aged race=White loss=none	10883
+relationship=Husband workclass=Private gain=none loss=none	10508
+race=White country=United-States gain=none loss=none	33232
+age=middle-aged sex=Male country=United-States loss=none	13925
+age=middle-aged gain=none	21448
+marital=Never-married gain=none	15440
+age=young workclass=Private loss=none	11082
+edu_num=9 education=HS-grad salary<=50K gain=none	12708
+edu_num=9 salary<=50K country=United-States	12218
+marital=Married-civ-spouse race=White country=United-States loss=none	17293
+salary>50K loss=none	10543
+marital=Never-married	16117
+workclass=Private race=White country=United-States loss=none	25307
+age=young race=White country=United-States	11303
+hours=full-time workclass=Private gain=none loss=none	18519
+education=HS-grad workclass=Private gain=none	10979
+workclass=Private	33906
+relationship=Husband marital=Married-civ-spouse race=White country=United-States gain=none	14495
+workclass=Private salary<=50K country=United-States	23380
+age=young salary<=50K country=United-States gain=none loss=none	11673
+education=HS-grad race=White	13387
+marital=Married-civ-spouse sex=Male race=White loss=none	16846
+age=middle-aged hours=full-time race=White gain=none	10324
+age=middle-aged country=United-States loss=none	19977
+age=middle-aged sex=Male race=White loss=none	13711
+a
